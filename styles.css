@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(14, 13, 13);
+}
+
+.header1 {
+  color: rgb(163, 123, 163);
+  text-align: center;
+  font-size: 70px;
+  font-style: oblique;
+  font-family: cursive;
+}
+
+p {
+text-align: center;
+font-size: 40px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: oblique;
+color: rgb(226, 145, 145);
+}
