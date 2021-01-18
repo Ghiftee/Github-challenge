@@ -1,1 +1,1 @@
-# Github-challenge
+This is a small project created to test my github skills.
